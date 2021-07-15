@@ -1,0 +1,11 @@
+X;Y;UNIDADE;FOL_SENTIDO;FOL_DIP
+601117;7584018;Grt-bt gnaisse;0;0
+603021;7584888;Grt-bt gnaisse;212;80
+603258;7584057;Grt-bt-sill metatexito;68;29
+603245;7584308;Grt-sill-ms-bt metatexito;228;18
+604254;7584080;Bt gnaisse +/- grt;272;5
+604528;7584292;Grt-sill-ms-bt metatexito;210;17
+604944;7584895;Quartzito;208;30
+606070;7584921;Bt gnaisse +/- grt;0;0
+604903;7581711;Quartzito;262;35
+602066;7581612;Grt-bt-sill metatexito;120;26
