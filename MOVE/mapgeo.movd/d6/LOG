@@ -1,3 +1,25 @@
-2021/07/15-14:24:39.293 2ac8 Recovering log #12
-2021/07/15-14:24:39.350 2ac8 Delete type=0 #12
-2021/07/15-14:24:39.351 2ac8 Delete type=3 #11
+2021/07/16-16:27:25.402 ab0 Recovering log #19
+2021/07/16-16:27:25.413 ab0 Delete type=0 #19
+2021/07/16-16:27:25.413 ab0 Delete type=3 #18
+2021/07/16-16:27:58.253 33b4 Compacting 2@0 + 1@1 files
+2021/07/16-16:27:58.285 33b4 Generated table #22@0: 86 keys, 2313171 bytes
+2021/07/16-16:27:58.312 33b4 Generated table #23@0: 9 keys, 2204776 bytes
+2021/07/16-16:27:58.336 33b4 Generated table #24@0: 246 keys, 1936565 bytes
+2021/07/16-16:27:58.336 33b4 Compacted 2@0 + 1@1 files => 6454512 bytes
+2021/07/16-16:27:58.338 33b4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2021/07/16-16:27:58.338 33b4 Delete type=2 #7
+2021/07/16-16:27:58.339 33b4 Delete type=2 #9
+2021/07/16-16:27:58.339 33b4 Delete type=2 #16
+2021/07/16-16:37:14.404 33b4 Expanding@1 1+1 (1936565+4429645 bytes) to 3+1 (6454512+4429645 bytes)
+2021/07/16-16:37:14.404 33b4 Compacting 3@1 + 1@2 files
+2021/07/16-16:37:14.441 33b4 Generated table #25@1: 92 keys, 2102104 bytes
+2021/07/16-16:37:14.467 33b4 Generated table #26@1: 10 keys, 2251767 bytes
+2021/07/16-16:37:14.492 33b4 Generated table #27@1: 9 keys, 2302118 bytes
+2021/07/16-16:37:14.525 33b4 Generated table #28@1: 10 keys, 2335225 bytes
+2021/07/16-16:37:14.549 33b4 Generated table #29@1: 210 keys, 1745825 bytes
+2021/07/16-16:37:14.549 33b4 Compacted 3@1 + 1@2 files => 10737039 bytes
+2021/07/16-16:37:14.550 33b4 compacted to: files[ 0 0 5 0 0 0 0 ]
+2021/07/16-16:37:14.550 33b4 Delete type=2 #5
+2021/07/16-16:37:14.551 33b4 Delete type=2 #22
+2021/07/16-16:37:14.551 33b4 Delete type=2 #23
+2021/07/16-16:37:14.551 33b4 Delete type=2 #24

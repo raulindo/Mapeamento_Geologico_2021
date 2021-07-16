@@ -1,5 +1,5 @@
-2021/07/15-14:24:39.034 2ac8 Recovering log #6
-2021/07/15-14:24:39.054 2ac8 Level-0 table #9: started
-2021/07/15-14:24:39.107 2ac8 Level-0 table #9: 2277947 bytes OK
-2021/07/15-14:24:39.134 2ac8 Delete type=0 #6
-2021/07/15-14:24:39.135 2ac8 Delete type=3 #2
+2021/07/16-16:27:25.297 ab0 Recovering log #14
+2021/07/16-16:27:25.299 ab0 Level-0 table #16: started
+2021/07/16-16:27:25.304 ab0 Level-0 table #16: 159687 bytes OK
+2021/07/16-16:27:25.315 ab0 Delete type=0 #14
+2021/07/16-16:27:25.315 ab0 Delete type=3 #13

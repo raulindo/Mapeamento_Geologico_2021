@@ -1,10 +1,10 @@
 <!DOCTYPE StratColumn>
-<StratColumn version="1.0" name="StratColumn_9" id="9">
+<StratColumn name="StratColumn_9" version="1.0" id="9">
  <RockProperties>
   <value index="0">
    <attribute v="Default" typeId="70" typeName="Compaction Curve"/>
    <attribute v="2DMove_104" typeId="102" typeName="pattern"/>
-   <attribute r="1" b="0" g="1" typeId="104" typeName="Background_colour"/>
+   <attribute r="1" g="1" b="0" typeId="104" typeName="Background_colour"/>
    <attribute v="0.490000" typeId="171" typeName="Porosity"/>
    <attribute v="0.270000" typeId="172" typeName="DepthCoefficient"/>
    <attribute v="0.375000" typeId="173" typeName="Grain Size"/>
@@ -24,7 +24,7 @@
   <value index="1">
    <attribute v="Default" typeId="70" typeName="Compaction Curve"/>
    <attribute v="2DMove_102" typeId="102" typeName="pattern"/>
-   <attribute r="0.4" b="0" g="0" typeId="104" typeName="Background_colour"/>
+   <attribute r="0.4" g="0" b="0" typeId="104" typeName="Background_colour"/>
    <attribute v="0.630000" typeId="171" typeName="Porosity"/>
    <attribute v="0.510000" typeId="172" typeName="DepthCoefficient"/>
    <attribute v="0.047000" typeId="173" typeName="Grain Size"/>
@@ -44,7 +44,7 @@
   <value index="2">
    <attribute v="Default" typeId="70" typeName="Compaction Curve"/>
    <attribute v="2DMove_108" typeId="102" typeName="pattern"/>
-   <attribute r="0" b="1" g="0" typeId="104" typeName="Background_colour"/>
+   <attribute r="0" g="0" b="1" typeId="104" typeName="Background_colour"/>
    <attribute v="0.410000" typeId="171" typeName="Porosity"/>
    <attribute v="0.400000" typeId="172" typeName="DepthCoefficient"/>
    <attribute v="0.005000" typeId="173" typeName="Grain Size"/>
@@ -64,7 +64,7 @@
   <value index="3">
    <attribute v="Default" typeId="70" typeName="Compaction Curve"/>
    <attribute v="" typeId="102" typeName="pattern"/>
-   <attribute r="0.4" b="0.2" g="0.2" typeId="104" typeName="Background_colour"/>
+   <attribute r="0.4" g="0.2" b="0.2" typeId="104" typeName="Background_colour"/>
    <attribute v="0.560000" typeId="171" typeName="Porosity"/>
    <attribute v="0.390000" typeId="172" typeName="DepthCoefficient"/>
    <attribute v="0.211000" typeId="173" typeName="Grain Size"/>
@@ -84,7 +84,7 @@
   <value index="4">
    <attribute v="Default" typeId="70" typeName="Compaction Curve"/>
    <attribute v="2DMove_103" typeId="102" typeName="pattern"/>
-   <attribute r="0.6" b="0" g="0.2" typeId="104" typeName="Background_colour"/>
+   <attribute r="0.6" g="0.2" b="0" typeId="104" typeName="Background_colour"/>
    <attribute v="0.560000" typeId="171" typeName="Porosity"/>
    <attribute v="0.390000" typeId="172" typeName="DepthCoefficient"/>
    <attribute v="0.211000" typeId="173" typeName="Grain Size"/>
@@ -104,7 +104,7 @@
   <value index="5">
    <attribute v="None" typeId="70" typeName="Compaction Curve"/>
    <attribute v="2DMove_5" typeId="102" typeName="pattern"/>
-   <attribute r="0" b="0" g="1" typeId="104" typeName="Background_colour"/>
+   <attribute r="0" g="1" b="0" typeId="104" typeName="Background_colour"/>
    <attribute v="0.000000" typeId="171" typeName="Porosity"/>
    <attribute v="0.000000" typeId="172" typeName="DepthCoefficient"/>
    <attribute v="0.000000" typeId="173" typeName="Grain Size"/>
@@ -124,7 +124,7 @@
   <value index="6">
    <attribute v="Default" typeId="70" typeName="Compaction Curve"/>
    <attribute v="2DMove_103" typeId="102" typeName="pattern"/>
-   <attribute r="0.596078" b="0.596078" g="0.596078" typeId="104" typeName="Background_colour"/>
+   <attribute r="0.596078" g="0.596078" b="0.596078" typeId="104" typeName="Background_colour"/>
    <attribute v="0.700000" typeId="171" typeName="Porosity"/>
    <attribute v="0.710000" typeId="172" typeName="DepthCoefficient"/>
    <attribute v="0.000000" typeId="173" typeName="Grain Size"/>
@@ -145,7 +145,7 @@
  <value index="0">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_01" typeId="101" typeName="Horizon"/>
-  <attribute r="0.901961" b="0.282353" g="0.654902" typeId="154" typeName="Colour"/>
+  <attribute r="0.901961" g="0.654902" b="0.282353" typeId="154" typeName="Colour"/>
   <attribute v="0.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>
@@ -153,7 +153,7 @@
  <value index="1">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_02" typeId="101" typeName="Horizon"/>
-  <attribute r="0.870588" b="0.392157" g="0.992157" typeId="154" typeName="Colour"/>
+  <attribute r="0.870588" g="0.992157" b="0.392157" typeId="154" typeName="Colour"/>
   <attribute v="10.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>
@@ -161,7 +161,7 @@
  <value index="2">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_03" typeId="101" typeName="Horizon"/>
-  <attribute r="0" b="0" g="0.733333" typeId="154" typeName="Colour"/>
+  <attribute r="0" g="0.733333" b="0" typeId="154" typeName="Colour"/>
   <attribute v="20.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>
@@ -169,7 +169,7 @@
  <value index="3">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_04" typeId="101" typeName="Horizon"/>
-  <attribute r="0.588235" b="0.780392" g="0.905882" typeId="154" typeName="Colour"/>
+  <attribute r="0.588235" g="0.905882" b="0.780392" typeId="154" typeName="Colour"/>
   <attribute v="30.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>
@@ -177,7 +177,7 @@
  <value index="4">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_05" typeId="101" typeName="Horizon"/>
-  <attribute r="0.462745" b="0.886275" g="0.784314" typeId="154" typeName="Colour"/>
+  <attribute r="0.462745" g="0.784314" b="0.886275" typeId="154" typeName="Colour"/>
   <attribute v="40.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>
@@ -185,7 +185,7 @@
  <value index="5">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_06" typeId="101" typeName="Horizon"/>
-  <attribute r="0" b="0.752941" g="0.501961" typeId="154" typeName="Colour"/>
+  <attribute r="0" g="0.501961" b="0.752941" typeId="154" typeName="Colour"/>
   <attribute v="50.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>
@@ -193,7 +193,7 @@
  <value index="6">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_07" typeId="101" typeName="Horizon"/>
-  <attribute r="0.94902" b="0.996078" g="0.737255" typeId="154" typeName="Colour"/>
+  <attribute r="0.94902" g="0.737255" b="0.996078" typeId="154" typeName="Colour"/>
   <attribute v="60.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>
@@ -201,7 +201,7 @@
  <value index="7">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_08" typeId="101" typeName="Horizon"/>
-  <attribute r="0.713726" b="0.976471" g="0.423529" typeId="154" typeName="Colour"/>
+  <attribute r="0.713726" g="0.423529" b="0.976471" typeId="154" typeName="Colour"/>
   <attribute v="70.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>
@@ -209,7 +209,7 @@
  <value index="8">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_09" typeId="101" typeName="Horizon"/>
-  <attribute r="0.619608" b="0.988235" g="0.0705882" typeId="154" typeName="Colour"/>
+  <attribute r="0.619608" g="0.0705882" b="0.988235" typeId="154" typeName="Colour"/>
   <attribute v="80.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>
@@ -217,7 +217,7 @@
  <value index="9">
   <attribute v="200.000000" typeId="94" typeName="Thickness"/>
   <attribute v="Horizon_10" typeId="101" typeName="Horizon"/>
-  <attribute r="0.972549" b="0.537255" g="0.603922" typeId="154" typeName="Colour"/>
+  <attribute r="0.972549" g="0.603922" b="0.537255" typeId="154" typeName="Colour"/>
   <attribute v="90.000000" typeId="190" typeName="Age"/>
   <attribute v="1" typeId="192" typeName="Active"/>
   <attribute v="3" typeId="200" typeName="RockPropertyID"/>

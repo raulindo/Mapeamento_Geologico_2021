@@ -1,8 +1,3 @@
-2021/07/15-12:29:33.717 b30 Delete type=3 #1
-2021/07/15-12:29:33.978 214 Level-0 table #5: started
-2021/07/15-12:29:34.043 1a10 Current memtable full; waiting...
-2021/07/15-12:29:34.049 214 Level-0 table #5: 4429645 bytes OK
-2021/07/15-12:29:34.055 214 Delete type=0 #3
-2021/07/15-12:29:34.110 214 Level-0 table #7: started
-2021/07/15-12:29:34.183 214 Level-0 table #7: 4189135 bytes OK
-2021/07/15-12:29:34.187 214 Delete type=0 #4
+2021/07/15-14:24:39.293 2ac8 Recovering log #12
+2021/07/15-14:24:39.350 2ac8 Delete type=0 #12
+2021/07/15-14:24:39.351 2ac8 Delete type=3 #11
