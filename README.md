@@ -13,3 +13,7 @@ We present all original files of the Geological Map, such as:
 * Gamma spectrometry images
 * Aerial imagery
 * Others
+
+## Our first Geological Sections from preliminary map
+
+![Geological Sections](/sections/perfis.png)
